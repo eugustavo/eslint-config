@@ -1,12 +1,12 @@
 {
   "name": "@eugustavo/eslint-config",
   "version": "1.0.0",
-  "private": false,
   "description": "Pre-saved ESLint settings to streamline the process of creating a new project.",
+  "private": false,
   "main": "web.js",
-  "license": "MIT",
   "repository": {
-    "url": "https://github.com/eugustavo/eslint-config"
+    "type": "git",
+    "url": "git+https://github.com/eugustavo/eslint-config.git"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
@@ -32,13 +32,11 @@
       "optional": true
     }
   },
+  "keywords": [],
+  "author": "eugustavo",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/eugustavo/eslint-config/issues"
   },
-  "homepage": "https://github.com/eugustavo/eslint-config#readme",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": ""
+  "homepage": "https://github.com/eugustavo/eslint-config#readme"
 }
