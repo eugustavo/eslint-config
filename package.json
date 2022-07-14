@@ -6,7 +6,7 @@
   "main": "web.js",
   "license": "MIT",
   "repository": {
-    "url": "eugustavo/eslint-config"
+    "url": "https://github.com/eugustavo/eslint-config"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
@@ -31,5 +31,14 @@
     "typescript": {
       "optional": true
     }
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/eugustavo/eslint-config/issues"
+  },
+  "homepage": "https://github.com/eugustavo/eslint-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": ""
 }
